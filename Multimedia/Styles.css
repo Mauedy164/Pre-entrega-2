@@ -1,0 +1,9 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container__header{
+    display: flex;
+    justify-content: space-between;
+}
